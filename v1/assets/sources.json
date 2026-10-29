@@ -1,0 +1,17 @@
+{
+  "dario-amodei.webp": {
+    "source_url": "https://www.anthropic.com/company/leadership",
+    "image_url": "https://www-cdn.anthropic.com/images/4zrzovbb/website/b9f2de42abe07215bc6f3e1498765fa0d3d58eaf-640x800.webp?fm=webp",
+    "credit": "Anthropic leadership portrait"
+  },
+  "sam-altman.jpg": {
+    "source_url": "https://www.repubblica.it/tecnologia/2023/09/04/news/sam_altman_openai_italian_tech_week_2023-413162373/",
+    "image_url": "https://www.repstatic.it/content/contenthub/img/2023/09/04/104130718-50a338ca-24d7-4731-a383-32ca1d880da3.jpg",
+    "credit": "La Repubblica / Italian Tech Week 2023 press portrait"
+  },
+  "leadership_verified": {
+    "Sam Altman": "https://openai.com/our-structure/",
+    "Dario Amodei": "https://www.anthropic.com/company/leadership"
+  },
+  "illustration_assets": "Generated with built-in imagegen; fictional masked MC embodiments. Founder portraits are source photographs, not lip-synced or made to perform lyrics. Logos copied unchanged from project asset library."
+}

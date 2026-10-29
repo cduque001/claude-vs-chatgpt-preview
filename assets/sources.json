@@ -13,5 +13,13 @@
     "Sam Altman": "https://openai.com/our-structure/",
     "Dario Amodei": "https://www.anthropic.com/company/leadership"
   },
-  "illustration_assets": "Generated with built-in imagegen; fictional masked MC embodiments. Founder portraits are source photographs, not lip-synced or made to perform lyrics. Logos copied unchanged from project asset library."
+  "illustration_assets": "Generated with built-in imagegen; fictional masked MC embodiments. Founder portraits are source photographs, not lip-synced or made to perform lyrics. Logos copied unchanged from project asset library.",
+  "illustration_assets_v2": {
+    "files": [
+      "claude-battle-v2.png",
+      "chatgpt-battle-v2.png"
+    ],
+    "method": "Built-in imagegen; fictional ivory and orange/teal robot MCs with no mouths; unchanged real logos composited separately.",
+    "prompts": "image-prompts-v2.json"
+  }
 }
